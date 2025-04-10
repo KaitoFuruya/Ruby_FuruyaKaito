@@ -1,4 +1,4 @@
-cofee = 300
+coffee = 300
 shot = 100
-puts "コーヒー:#{cofee}円"
-puts "合計:#{cofee+shot*2}円"
+puts "コーヒー:#{coffee}円"
+puts "合計:#{coffee+shot*2}円"
