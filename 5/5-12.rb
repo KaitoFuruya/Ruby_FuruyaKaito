@@ -1,4 +1,4 @@
-num = [1,2,3].map do |x|
+nums = [1, 2, 3].map do |x|
     x * 3
 end
-p num
+p nums
