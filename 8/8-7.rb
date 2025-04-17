@@ -7,8 +7,8 @@ class Item
     end
 end
 
-item = Item.new("マフィン")
-item = Item.new("スコーン")
+item1 = Item.new("マフィン")
+item2 = Item.new("スコーン")
 
 puts item1.name
 puts item2.name

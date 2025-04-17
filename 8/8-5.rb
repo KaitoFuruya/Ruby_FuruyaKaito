@@ -1,5 +1,5 @@
 class Item
-    def name = (text)
+    def name=(text)
         @name = text
     end
     def name
